@@ -27,12 +27,12 @@ Una plataforma literaria que busca conectar a lectores y escritores en una comun
 
 ### Backend
 - **Python**: Lenguaje de programación utilizado para la lógica del servidor y la integración con bases de datos.
-- **SQLAlchemy**: Herramienta de mapeo objeto-relacional (ORM) para gestionar la base de datos y facilitar las consultas.
+- **SQLAlchemy**: Herramienta para gestionar la base de datos y facilitar las consultas.
 
 ### APIs Integradas
 - **Google Books**: Para ofrecer a los usuarios la posibilidad de buscar y explorar libros disponibles en línea.
 - **Commento**: Integración de comentarios en tiempo real para fomentar la interacción entre usuarios.
-- **Chatra**: Herramienta de chat en vivo que permite a los usuarios comunicarse con los escritores o el soporte.
+- **Chatra**: Herramienta de chat en vivo que permite a los usuarios comunicarse con el soporte administrativo.
 
 
 ## 🌐 Conéctate Conmigo
@@ -47,8 +47,7 @@ Una plataforma literaria que busca conectar a lectores y escritores en una comun
 ```javascript
 const mariana = {
   pronombres: "Ella",
-  codigo: ["JavaScript", "Python", "HTML", "CSS"],
-  herramientas: ["React", "Node.js"],
+  codigo: ["JavaScript", "Python", "HTML", "CSS", Bootstrap],
   intereses: ["Viajar"],
   saludo: function() {
     console.log("Hola, ¡gracias por visitar mi perfil de GitHub!");
