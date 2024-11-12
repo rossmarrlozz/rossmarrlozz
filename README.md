@@ -16,7 +16,8 @@
 ### HooBoo
 Una plataforma literaria que busca conectar a lectores y escritores en una comunidad interactiva y visualmente atractiva.
 
-![HooBoo (1)](https://github.com/user-attachments/assets/71bc70f4-1eab-4dcc-ac03-0838f3928866)
+![HooBoo (1)](https://github.com/user-attachments/assets/cf683365-fb95-4c0d-91f9-4106e24f505c)
+
 
 **Tecnologías utilizadas**:
 ### Frontend
