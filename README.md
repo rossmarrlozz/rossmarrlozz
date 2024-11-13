@@ -1,6 +1,6 @@
-# 🌟 Mariana Morales - Desarrolladora Web 🌟
+# 🌟 Mariana Morales - Full Stack Developer 🌟
 
-¡Hola! Soy **Mariana Morales**, una apasionada desarrolladora web con experiencia en tecnologías front-end y back-end. Siempre estoy buscando aprender y mejorar mis habilidades para crear soluciones web innovadoras.
+¡Hola! Soy **Mariana Morales**, una apasionada Full Stack Developer con experiencia en tecnologías front-end y back-end. Siempre estoy buscando aprender y mejorar mis habilidades para crear soluciones web innovadoras.
 
 ## 🛠️ Habilidades
 
